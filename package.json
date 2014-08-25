@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "scripts": {
+    "preinstall": "npm i -g grunt-cli bower"
+  },
+  "devDependencies": {
+    "assemble": "^0.4.41",
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "scraperjs": "^0.3.0"
+  }
+}
